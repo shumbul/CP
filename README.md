@@ -4,10 +4,10 @@
 - CF
   - Random Codeforces problems 
 - Codeforces contests
-  - Some Codeforces live contest probelems
+  - Codeforces live contestd
 - Interviewbit
 - Mixed
-  - CF probelems - A,B,D, Contest
+  - CF probelems A - D Contest
   - Interviewcake
   - DP
   - Codathon
