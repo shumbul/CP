@@ -1,0 +1,30 @@
+https://www.codechef.com/LRNDSA08/problems/MARLA
+
+3		testcases
+aa		#1
+bb
+1		M1
+a->b 	rule1
+ab
+ba
+2
+a->b
+b->a
+a
+b
+1
+b->a
+
+YES
+YES
+NO
+
+first thing: if str1 and str2 are of diff len, NO
+if strings are already same, YES
+if strs are diff and M is 0, NO
+
+traverse str1, for each char check if it's diff from that of str2:
+same - continue
+different - check if it's adjacency list contains that char or not, if no, NO
+
+YES
