@@ -12,8 +12,7 @@
   - DP
   - Codathon
   - GFG
+  - Greedy
   - Atcoder
   - Leetcode
 - WARMUP Probelems
-  - C++ basic algorithms 
-  - Some basic DP probelems 
