@@ -7,7 +7,6 @@
   - Codeforces live contestd
 - Interviewbit
 - Mixed
-  - CF probelems A - D Contest
   - Interviewcake
   - DP
   - Codathon
